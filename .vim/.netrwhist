@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/rikku/programs/c'
 let g:netrw_dirhist_4='/home/rikku/Android'
 let g:netrw_dirhist_3='/'
 let g:netrw_dirhist_2='/snap'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_9='/home/rikku'
 let g:netrw_dirhist_8='/home/rikku/programs'
 let g:netrw_dirhist_7='/home/rikku/programs/cpp'
 let g:netrw_dirhist_6='/home/rikku/programs/cpp/hashcode21.cpp'
-let g:netrw_dirhist_5='/home/rikku/programs/cpp'
